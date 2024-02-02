@@ -34,7 +34,7 @@
               "primeng/resources/primeng.css",
               {
                 "input": "src/themes/themes/lara/lara-light/blue/theme.scss",
-                "bundleName": "lara-light-blue",
+                "bundleName": "mytheme",
                 "inject": false
               }
             ],
