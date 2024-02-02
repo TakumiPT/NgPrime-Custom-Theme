@@ -30,7 +30,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "primeng/resources/primeng.css",
+              {
+                "input": "src/themes/themes/lara/lara-light/blue/theme.scss",
+                "bundleName": "lara-light-blue",
+                "inject": false
+              }
             ],
             "scripts": []
           },
@@ -97,5 +103,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f6529f8d-4160-4ed3-a748-0180754ceb97"
   }
 }
