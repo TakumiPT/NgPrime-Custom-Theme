@@ -30,13 +30,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "primeng/resources/primeng.css",
-              {
-                "input": "src/themes/themes/lara/lara-light/blue/theme.scss",
-                "bundleName": "mytheme",
-                "inject": false
-              }
+              "src/styles.scss"
             ],
             "scripts": []
           },
